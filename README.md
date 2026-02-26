@@ -6,7 +6,7 @@ My main interests lie at the intersection of **data analysis, natural language p
 
 ### 🔍 Areas of interest
 - Data Analysis & Business Intelligence  
-- Natural Language Processing (NLP) & Text Analytics  
+- Business and Marketing Analytics
 - Machine Learning & Predictive Modeling  
 - Data Visualization & Data-Driven Decision Making  
 
@@ -24,7 +24,7 @@ Before transitioning fully into data and analytics, I worked as an **associate p
 This GitHub profile contains academic and personal projects developed during my master’s studies and independent learning, mainly focused on:
 - Python programming and data analysis  
 - Databases (SQL & NoSQL)  
-- NLP and text-based data exploration  
+- Dashboards with Tableau, Power BI and Excel
 - Data visualization and analytics workflows  
 
 I’m continuously learning and open to opportunities in **data analytics, NLP, and data-driven digital roles**, especially in international environments.
